@@ -1,0 +1,23 @@
+h1{
+    background-color: rgb(35, 189, 138, .5);
+}
+
+.class1{
+    width: 500px;
+    color: blue;
+}
+
+.class2{
+    width: 800px !important;
+    color: orange !important;
+}
+
+.class3{
+    width: 700px;
+    color: pink;
+}
+
+#num1{
+    border: 3px dotted red;
+}
+
